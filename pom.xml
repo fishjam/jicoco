@@ -22,7 +22,7 @@
 
     <groupId>org.jitsi</groupId>
     <artifactId>jicoco-parent</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>fishjam-debug</version>
     <packaging>pom</packaging>
 
     <name>jicoco-parent</name>
@@ -68,7 +68,7 @@
             <dependency>
                 <groupId>${project.groupId}</groupId>
                 <artifactId>jitsi-utils</artifactId>
-                <version>1.0-114-g43815ed</version>
+                <version>fishjam-debug</version>
             </dependency>
             <dependency>
                 <groupId>org.jetbrains.kotlin</groupId>

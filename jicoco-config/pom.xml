@@ -23,11 +23,11 @@
     <parent>
         <groupId>org.jitsi</groupId>
         <artifactId>jicoco-parent</artifactId>
-        <version>1.1-SNAPSHOT</version>
+        <version>fishjam-debug</version>
     </parent>
 
     <artifactId>jicoco-config</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>fishjam-debug</version>
     <name>jicoco-config</name>
     <description>Jitsi Common Components (Configuration Utilities)</description>
 
@@ -43,7 +43,7 @@
         <dependency>
             <groupId>${project.groupId}</groupId>
             <artifactId>jitsi-metaconfig</artifactId>
-            <version>1.0-9-g5e1b624</version>
+            <version>fishjam-debug</version>
         </dependency>
         <dependency>
             <groupId>com.typesafe</groupId>
